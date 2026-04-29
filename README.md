@@ -1,4 +1,4 @@
 # DEMO
 Git Repo for Demo
 <br>
-Author - Lavi Saini (DEMO)
+Author - Lavi Saini (DEMOs)
